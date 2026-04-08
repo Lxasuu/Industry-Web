@@ -38,6 +38,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
           <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
+          <li class="nav-item"><a href="about.php" class="nav-link">Profil</a></li>
           <li class="nav-item"><a href="program_studi.php" class="nav-link">Program Studi</a></li>
           <li class="nav-item"><a href="dosen.php" class="nav-link">Dosen</a></li>
           <li class="nav-item"><a href="beasiswa.php" class="nav-link">Beasiswa</a></li>
