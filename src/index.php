@@ -1,7 +1,7 @@
 <?php include 'partials/header.php'; ?>
 
 <?php include 'partials/sections/hero.php'; ?>
-<?php include 'partials/sections/about.php'; ?>
+<?php $is_home = true; include 'partials/sections/about.php'; ?>
 <?php include 'partials/sections/program_studi.php'; ?>
 <?php include 'partials/sections/dosen.php'; ?>
 <?php include 'partials/sections/beasiswa.php'; ?>

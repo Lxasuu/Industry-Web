@@ -60,7 +60,7 @@
                   <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
                 </svg>
               </span>
-              <small class="mb-0"><span class="fw-bold">1500+</span> Mahasiswa</small>
+              <small class="mb-0"><span class="fw-bold">1000+</span> Mahasiswa</small>
             </div>
             <div class="d-flex align-items-center gap-2">
               <span>

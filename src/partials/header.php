@@ -46,7 +46,7 @@
           <li class="nav-item"><a href="pendaftaran.php" class="nav-link">Pendaftaran</a></li>
         </ul>
         <div class="d-flex gap-3 align-items-center">
-          <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started</a>
+          <a href="https://pmb-mip.politeknikmeta.ac.id/" class="btn btn-primary" target="_blank">Daftar Sekarang</a>
         </div>
       </div>
     </div>
