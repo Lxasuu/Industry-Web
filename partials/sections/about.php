@@ -1,5 +1,5 @@
 <!-- Mulai Section Profil -->
-  <section class="py-lg-13 py-8 bg-light bg-opacity-50">
+  <section class="pt-lg-8 pt-5 pb-lg-13 pb-8 bg-light bg-opacity-50">
     <div class="container">
       
       <!-- Judul Halaman -->

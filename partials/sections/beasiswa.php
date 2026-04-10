@@ -1,6 +1,6 @@
-﻿<section class="py-lg-13 py-8 position-relative" id="group">
+<section class="pt-lg-8 pt-5 pb-lg-13 pb-8 position-relative" id="group">
     <div class="circle-bg d-none d-lg-block"></div>
-    <div class="container py-lg-13">
+    <div class="container pt-lg-8 pb-lg-13">
       <div class="row  align-items-center gy-8">
         <div class="col-xl-6">
           <div class="mb-10 pe-lg-12">

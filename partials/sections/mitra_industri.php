@@ -1,4 +1,4 @@
-﻿<section class="py-lg-13 py-8 bg-light bg-opacity-50" id="testimonials">
+<section class="pt-lg-8 pt-5 pb-lg-13 pb-8 bg-light bg-opacity-50" id="testimonials">
 
     <div class="container">
       <div class="row">

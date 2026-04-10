@@ -1,4 +1,4 @@
-﻿<section class="py-lg-13 py-8 " id="pricing">
+<section class="pt-lg-8 pt-5 pb-lg-13 pb-8 " id="pricing">
 
     <div class="container">
       <div class="row">

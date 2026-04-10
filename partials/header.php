@@ -37,14 +37,15 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <?php $current_page = basename($_SERVER['PHP_SELF']); ?>
         <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
-          <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
-          <li class="nav-item"><a href="about.php" class="nav-link">Profil</a></li>
-          <li class="nav-item"><a href="program_studi.php" class="nav-link">Program Studi</a></li>
-          <li class="nav-item"><a href="dosen.php" class="nav-link">Dosen</a></li>
-          <li class="nav-item"><a href="beasiswa.php" class="nav-link">Beasiswa</a></li>
-          <li class="nav-item"><a href="mitra_industri.php" class="nav-link">Mitra Industri</a></li>
-          <li class="nav-item"><a href="pendaftaran.php" class="nav-link">Pendaftaran</a></li>
+          <li class="nav-item"><a href="index.php" class="nav-link <?= $current_page == 'index.php' ? 'active fw-bold text-primary' : '' ?>">Home</a></li>
+          <li class="nav-item"><a href="about.php" class="nav-link <?= $current_page == 'about.php' ? 'active fw-bold text-primary' : '' ?>">Profil</a></li>
+          <li class="nav-item"><a href="program_studi.php" class="nav-link <?= $current_page == 'program_studi.php' ? 'active fw-bold text-primary' : '' ?>">Program Studi</a></li>
+          <li class="nav-item"><a href="dosen.php" class="nav-link <?= $current_page == 'dosen.php' ? 'active fw-bold text-primary' : '' ?>">Dosen</a></li>
+          <li class="nav-item"><a href="beasiswa.php" class="nav-link <?= $current_page == 'beasiswa.php' ? 'active fw-bold text-primary' : '' ?>">Beasiswa</a></li>
+          <li class="nav-item"><a href="mitra_industri.php" class="nav-link <?= $current_page == 'mitra_industri.php' ? 'active fw-bold text-primary' : '' ?>">Mitra Industri</a></li>
+          <li class="nav-item"><a href="pendaftaran.php" class="nav-link <?= $current_page == 'pendaftaran.php' ? 'active fw-bold text-primary' : '' ?>">Pendaftaran</a></li>
         </ul>
         <div class="d-flex gap-3 align-items-center">
           <a href="https://pmb-mip.politeknikmeta.ac.id/" class="btn btn-primary" target="_blank">Daftar Sekarang</a>
