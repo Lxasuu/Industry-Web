@@ -11,7 +11,8 @@
   <link rel="manifest" href="./assets/images/favicon_io/site.webmanifest">
   
   <!-- CSS -->
-  <link rel="stylesheet" href="../dist/assets/css/index.css">
+  <link rel="stylesheet" href="./dist/assets/css/index.css">
+  <script type="module" src="./dist/assets/js/index.js" defer></script>
 </head>
 
 <body>
