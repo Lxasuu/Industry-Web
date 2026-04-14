@@ -43,7 +43,7 @@
           <li class="nav-item"><a href="about.php" class="nav-link <?= $current_page == 'about.php' ? 'active fw-bold text-primary' : '' ?>">Tentang</a></li>
           <li class="nav-item"><a href="program_studi.php" class="nav-link <?= $current_page == 'program_studi.php' ? 'active fw-bold text-primary' : '' ?>">Kurikulum</a></li>
           <li class="nav-item"><a href="karya_mahasiswa.php" class="nav-link <?= $current_page == 'karya_mahasiswa.php' ? 'active fw-bold text-primary' : '' ?>">Karya Mahasiswa</a></li>
-          <li class="nav-item"><a href="fasilitas.php" class="nav-link <?= $current_page == 'fasilitas.php' ? 'active fw-bold text-primary' : '' ?>">Magang</a></li>
+          <li class="nav-item"><a href="magang.php" class="nav-link <?= $current_page == 'magang.php' ? 'active fw-bold text-primary' : '' ?>">Magang</a></li>
           <li class="nav-item"><a href="dosen.php" class="nav-link <?= $current_page == 'dosen.php' ? 'active fw-bold text-primary' : '' ?>">Dosen</a></li>
           <li class="nav-item"><a href="beasiswa.php" class="nav-link <?= $current_page == 'beasiswa.php' ? 'active fw-bold text-primary' : '' ?>">Beasiswa</a></li>
           <li class="nav-item"><a href="kontak.php" class="nav-link <?= $current_page == 'kontak.php' ? 'active fw-bold text-primary' : '' ?>">Kontak</a></li>
