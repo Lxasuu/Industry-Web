@@ -46,7 +46,7 @@
           <li class="nav-item"><a href="fasilitas.php" class="nav-link <?= $current_page == 'fasilitas.php' ? 'active fw-bold text-primary' : '' ?>">Magang</a></li>
           <li class="nav-item"><a href="dosen.php" class="nav-link <?= $current_page == 'dosen.php' ? 'active fw-bold text-primary' : '' ?>">Dosen</a></li>
           <li class="nav-item"><a href="beasiswa.php" class="nav-link <?= $current_page == 'beasiswa.php' ? 'active fw-bold text-primary' : '' ?>">Beasiswa</a></li>
-          <li class="nav-item"><a href="mitra_industri.php" class="nav-link <?= $current_page == 'mitra_industri.php' ? 'active fw-bold text-primary' : '' ?>">Kontak</a></li>
+          <li class="nav-item"><a href="kontak.php" class="nav-link <?= $current_page == 'kontak.php' ? 'active fw-bold text-primary' : '' ?>">Kontak</a></li>
           <!-- <li class="nav-item"><a href="pendaftaran.php" class="nav-link <?= $current_page == 'pendaftaran.php' ? 'active fw-bold text-primary' : '' ?>">Pendaftaran</a></li> -->
         </ul>
         <div class="d-flex gap-3 align-items-center">
