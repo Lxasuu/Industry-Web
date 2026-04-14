@@ -6,6 +6,5 @@
 <?php include 'partials/sections/dosen.php'; ?>
 <?php include 'partials/sections/beasiswa.php'; ?>
 <?php include 'partials/sections/mitra_industri.php'; ?>
-<?php include 'partials/sections/pendaftaran.php'; ?>
 
 <?php include 'partials/footer.php'; ?>
